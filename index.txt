@@ -9,4 +9,4 @@ git init - создаёт (инициализирует) новый пустой
 - `git add filename` (избирательно)
 
 #Сделать комментарий 
-git commit -n "add index.txt"
+git commit -m "add index.txt"
