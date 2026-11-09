@@ -10,3 +10,11 @@ git init - создаёт (инициализирует) новый пустой
 
 #Сделать комментарий 
 git commit -m "add index.txt"
+
+## Легенда `git status -s`
+
+- `??` - Untracked
+- `M` - Modifed
+- `D` - Deleted
+- `A` - Added
+- `R` - Renamed
